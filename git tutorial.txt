@@ -1,0 +1,6 @@
+https://git-scm.com/download/win (download link)
+
+https://www.elegantthemes.com/blog/resources/git-and-github-a-beginners-guide-for-complete-newbies
+
+https://www.atlassian.com/git/tutorials/setting-up-a-repository
+
